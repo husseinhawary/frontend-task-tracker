@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "$2a$10$/5Rkda3Gqh7pfQUZsXch.ulnkca1AE8BgMOBW5dESXMdRYDAh6TWa",
+      "id": 2,
+      "username": "test",
+      "tasks": [
+        {
+          "id": 1,
+          "taskname": "Task 1",
+          "tasktype": "Work",
+          "taskdate": "2022-02-08",
+          "status": "done"
+        },
+        {
+          "id": 2,
+          "taskname": "Task 2",
+          "tasktype": "Personal",
+          "taskdate": "2018-02-08",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "email": "hussein@elmenus.com",
+      "password": "$2a$10$6nl.SPTedSMcyKX8WgJolOvvyq66xxI/W.KXyt6cRPBN1UEfTNJ.e",
+      "id": 3,
+      "username": "husseinelhawary",
+      "tasks": [
+        {
+          "id": 4,
+          "taskname": "Task 4",
+          "tasktype": "Personal",
+          "taskdate": "2020-02-08",
+          "status": "done"
+        },
+        {
+          "id": 5839,
+          "taskname": "6th task",
+          "tasktype": "Work",
+          "taskdate": "2023-01-24",
+          "status": "pending"
+        },
+        {
+          "id": 8154,
+          "taskname": "task 3",
+          "tasktype": "Personal",
+          "taskdate": "2023-01-18",
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "email": "frontend@task.com",
+      "password": "$2a$10$4skpG937KkHKoP5YSM/hMuJUFFrpNnXp6EwKkS24yYeXJ7sHOqaQ6",
+      "username": "frontend_task",
+      "id": 4,
+      "tasks": [
+        {
+          "id": 188,
+          "taskname": "3rd task",
+          "tasktype": "Work",
+          "taskdate": "2023-02-11",
+          "status": "done"
+        },
+        {
+          "id": 869,
+          "taskname": "1st task",
+          "tasktype": "Work",
+          "taskdate": "2023-01-14",
+          "status": "pending"
+        },
+        {
+          "taskname": "new",
+          "tasktype": "Work",
+          "taskdate": "2023-01-29",
+          "status": "pending",
+          "id": 5185
+        },
+        {
+          "id": 8203,
+          "taskname": "ttt",
+          "tasktype": "Personal",
+          "taskdate": "2023-01-19",
+          "status": "done"
+        }
+      ]
+    },
+    {
+      "email": "register@test.com",
+      "password": "$2a$10$JGoCd4XtV91LPI7rU/akSegJZEQ6Vi7A9AmRAeTiI03wETMgEM4ju",
+      "username": "testregistration",
+      "id": 5,
+      "tasks": []
+    },
+    {
+      "email": "atest@test.com",
+      "password": "$2a$10$If5i7IY6E0ru8g.7OubGHerViGEmPApXQjQzwkPeinK95iw8zwFNq",
+      "username": "atest",
+      "tasks": [],
+      "id": 6
+    },
+    {
+      "email": "frontend@task.com1",
+      "password": "$2a$10$F/Nu7Rsy1KSjz/BBFo26T.o5kOIOUpOO5usO2ZQ/epCBLVgkwXgzS",
+      "username": "task",
+      "tasks": [],
+      "id": 7
+    }
+  ]
+}
